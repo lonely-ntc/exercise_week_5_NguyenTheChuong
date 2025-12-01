@@ -30,7 +30,7 @@ Flutter Note App là ứng dụng ghi chú cơ bản, được xây dựng hoàn
 ###  Tech Stack & Dependencies
 
 | Thư viện              | Mục đích                                      |
-|--------------------- -|-----------------------------------------------|
+|-----------------------|-----------------------------------------------|
 | flutter               | Framework chính                               |
 | sqflite               | Cơ sở dữ liệu SQLite                          |
 | path_provider         | Lấy đường dẫn lưu trữ thiết bị                |
